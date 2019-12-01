@@ -48,7 +48,7 @@ def rectangle(coord):
                     continue
                # If it passes both conditions, menas at least one X match for 
                # both points of the vertical line meaning rectangle is possible
-               # thus we increment answer
+               # hence we increment answer
                else:
                     answer+=1
           count += 1
